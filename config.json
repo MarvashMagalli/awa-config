@@ -1,5 +1,6 @@
 {
-    "event_start_delay_hours": 0,
-    "game": "aniimo-community-event",
-    "code": "green"
+    "aniimo-community-event": {
+        "event_start_delay_hours": 0,
+        "code": "green"
+    }
 }
