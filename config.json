@@ -1,13 +1,6 @@
 {
     "aniimo-community-event": {
-        "event_start_delay_hours": 24,
+        "event_start_delay_hours": 0,
         "code": "green"
-    },
-    "warframe-community-event-7": {
-        "event_start_delay_hours": 16,
-        "code": "green"
-    },
-    "game": "aniimo-community-event",
-    "code": "green",
-    "event_start_delay_hours": 0
+    }
 }
