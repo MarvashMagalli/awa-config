@@ -6,5 +6,9 @@
     "warframe-community-event-7": {
         "code": "green",
         "event_start_delay_hours": 16
+    },
+    "the-finals-community-event-2": {
+        "code": "yellow",
+        "event_start_delay_hours": 0
     }
 }
