@@ -1,12 +1,4 @@
 {
-    "aniimo-community-event": {
-        "event_start_delay_hours": 24,
-        "code": "yellow"
-    },
-    "warframe-community-event-7": {
-        "code": "green",
-        "event_start_delay_hours": 16
-    },
     "the-finals-community-event-2": {
         "code": "green",
         "event_start_delay_hours": 0
