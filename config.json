@@ -1,10 +1,6 @@
 {
-    "the-finals-community-event-2": {
-        "code": "yellow",
-        "event_start_delay_hours": 0
-    },
     "dead-by-daylight-community-event-1": {
         "code": "green",
-        "event_start_delay_hours": 0
+        "event_start_delay_hours": 24
     }
 }
