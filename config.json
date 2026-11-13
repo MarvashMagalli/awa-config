@@ -1,10 +1,6 @@
 {
-    "dead-by-daylight-community-event-1": {
-        "code": "red",
-        "event_start_delay_hours": 24
-    },
     "broforce-community-event": {
         "code": "green",
-        "event_start_delay_hours": 0
+        "event_start_delay_hours": 24
     }
 }
