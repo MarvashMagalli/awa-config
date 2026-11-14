@@ -1,6 +1,6 @@
 {
     "broforce-community-event": {
-        "code": "green",
+        "code": "yellow",
         "event_start_delay_hours": 24
     }
 }
