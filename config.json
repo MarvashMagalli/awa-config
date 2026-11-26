@@ -2,5 +2,9 @@
     "broforce-community-event": {
         "code": "red",
         "event_start_delay_hours": 24
+    },
+    "infinity-nikki-community-event-1": {
+        "code": "green",
+        "event_start_delay_hours": 0
     }
 }
